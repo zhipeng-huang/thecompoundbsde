@@ -1,7 +1,6 @@
 # The Compound BSDE method
-This library provides an implementation for the numerical methods considered in the paper
->B. Negyesi, C.W.Oosterlee (2025): A numerical Fourier cosine expansion method with higher order
-Taylor schemes for fully coupled FBSDEs
+This library provides an implementation for the numerical methods considered in the paper:
+>Z.Huang, C.W.Oosterlee (2026): The Compound BSDE method: A fully-forward method for option pricing and optimal stopping problems in finance
 
 
 ## Usage
